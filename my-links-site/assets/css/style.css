@@ -37,7 +37,7 @@ main {
 .link-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: aquamarine; /* Aquamarine button background */
+    background-color: #1976d2; /* Aquamarine button background */
     color: #fff; /* White button text color */
     border: none;
     border-radius: 5px;
