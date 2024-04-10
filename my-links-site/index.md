@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Links
+title: Our Family Websites
 ---
 
-# My Favorite Websites
+# Public Websites
+- [Mealie - a recipe book](https://cook.germick.xyz)
 
-- [Website 1](https://example.com)
-- [Website 2](https://example.org)
-- [Website 3](https://example.net)
+
+# SSO required
+- [FileStash - Use this portal to upload to photoprism](https://filestash.germick.xyz)
+- [PhotoPrism - An interface for viewing pictures](https://photo.germick.xyz)
