@@ -28,13 +28,26 @@ main {
 }
 
 /* Link styles */
-a {
-    color: #007bff; /* Blue link color */
-    text-decoration: none;
+.links-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
 }
 
-a:hover {
-    text-decoration: underline; /* Underline links on hover */
+.link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue button background */
+    color: #fff; /* White button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s; /* Transition effect */
+}
+
+.link-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Soft highlight shimmer effect */
 }
 
 /* Footer styles */

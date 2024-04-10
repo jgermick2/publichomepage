@@ -4,9 +4,14 @@ title: Our Family Websites
 ---
 
 # Public Websites
-- [Mealie - a recipe book](https://cook.germick.xyz)
 
+<div class="links-container">
+  <a href="https://cook.germick.xyz" class="link-button">Mealie - a recipe book</a>
+</div>
 
 # SSO required
-- [FileStash - Use this portal to upload to photoprism](https://filestash.germick.xyz)
-- [PhotoPrism - An interface for viewing pictures](https://photo.germick.xyz)
+
+<div class="links-container">
+  <a href="https://filestash.germick.xyz" class="link-button">FileStash - Use this portal to upload to photoprism</a>
+  <a href="https://photo.germick.xyz" class="link-button">PhotoPrism - An interface for viewing pictures</a>
+</div>
