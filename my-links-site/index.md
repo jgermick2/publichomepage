@@ -16,3 +16,10 @@ title: Our Family Websites
   <a href="https://photo.germick.xyz" class="link-button">PhotoPrism - An interface for viewing pictures</a>
    <a href="https://ebook.germick.xyz" class="link-button">my digital book library</a>
 </div>
+
+# Lan Access required
+
+<div class="links-container">
+  <a href="http://192.168.1.12:7888" class="link-button"> Homepage </a>
+
+</div>
