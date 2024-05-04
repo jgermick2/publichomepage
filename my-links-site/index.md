@@ -7,6 +7,7 @@ title: Our Family Websites
 
 <div class="links-container">
   <a href="https://cook.germick.xyz" class="link-button">Mealie - a recipe book</a>
+  <a href="https://passcheck.germick.xyz" class="link-button">Passcheck - password checker and generator </a>
 </div>
 
 # SSO required
